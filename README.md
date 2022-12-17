@@ -24,6 +24,10 @@ $ docker-compose up
 ```
 - Para iniciar o fluxo acesse `http://localhost:4200`
 
+### Uteis
+
+Link para imagem pública da api, disponível no Docker Hub.
+
 
 
 
